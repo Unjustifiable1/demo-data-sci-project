@@ -15,3 +15,6 @@ def my_function():
 
 def sarahs_function():
     pass
+
+def mikes_function():
+    pass
